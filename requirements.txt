@@ -1,0 +1,7 @@
+﻿mesa-geo
+mesa
+spyder
+matplotlib
+numpy
+django
+pandas
